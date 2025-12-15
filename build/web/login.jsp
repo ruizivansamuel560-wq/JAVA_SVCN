@@ -48,7 +48,7 @@
       </form>
       <div class="login-footer">
         <a href="#" class="forgot-password-link">¿Olvidaste tu contraseña?</a>
-        <p>¿No tienes una cuenta? <a href="registro.jsp" class="register-link">Regístrate aquí</a></p>       </div>
+        <p>¿No tienes una cuenta? <a href="registro-admin.jsp" class="register-link">Regístrate aquí</a></p>       </div>
     </div>
   </div>
 

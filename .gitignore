@@ -1,0 +1,23 @@
+# Ignorar archivos del IDE (Ejemplo para Eclipse/NetBeans/IntelliJ)
+.idea/
+.classpath
+.project
+.settings/
+*.iml
+
+# Ignorar dependencias y archivos compilados
+/target/
+/build/
+*.class
+*.jar
+*.war
+*.zip
+
+# Ignorar logs y temporales
+*.log
+*.tmp
+/temp/
+
+# Ignorar configuraciones sensibles (si usas archivos de propiedades)
+# Ejemplo:
+# config.properties

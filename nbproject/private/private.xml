@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/nico_/Documents/NetBeansProjects/java_svcn/web/index.jsp</file>
+            <file>file:/C:/Users/nico_/Documents/NetBeansProjects/java_svcn/web/login.css</file>
+            <file>file:/C:/Users/nico_/Documents/NetBeansProjects/java_svcn/web/login.jsp</file>
+            <file>file:/C:/Users/nico_/Documents/NetBeansProjects/java_svcn/src/java/com/svcn/config/Conexion.java</file>
+            <file>file:/C:/Users/nico_/Documents/NetBeansProjects/java_svcn/src/java/com/svcn/controlador/AuthFilter.java</file>
+            <file>file:/C:/Users/nico_/Documents/NetBeansProjects/java_svcn/src/java/com/svcn/controlador/LoginServlet.java</file>
+            <file>file:/C:/Users/nico_/Documents/NetBeansProjects/java_svcn/src/java/com/svcn/controlador/LogoutServlet.java</file>
+            <file>file:/C:/Users/nico_/Documents/NetBeansProjects/java_svcn/src/java/com/svcn/modelo/Producto.java</file>
+            <file>file:/C:/Users/nico_/Documents/NetBeansProjects/java_svcn/src/java/com/svcn/modelo/Administrador.java</file>
+            <file>file:/C:/Users/nico_/Documents/NetBeansProjects/java_svcn/src/java/com/svcn/dao/ProductoDAO.java</file>
+            <file>file:/C:/Users/nico_/Documents/NetBeansProjects/java_svcn/src/java/com/svcn/controlador/GestorProductosServlet.java</file>
+            <file>file:/C:/Users/nico_/Documents/NetBeansProjects/java_svcn/web/productos-gestion.jsp</file>
+            <file>file:/C:/Users/nico_/Documents/NetBeansProjects/java_svcn/src/java/com/svcn/controlador/ReportesServlet.java</file>
+            <file>file:/C:/Users/nico_/Documents/NetBeansProjects/java_svcn/web/reportes-productos.jsp</file>
+            <file>file:/C:/Users/nico_/Documents/NetBeansProjects/java_svcn/web/dashboard.jsp</file>
+            <file>file:/C:/Users/nico_/Documents/NetBeansProjects/java_svcn/src/java/com/svcn/modelo/EstiloPrenda.java</file>
+            <file>file:/C:/Users/nico_/Documents/NetBeansProjects/java_svcn/web/proveedores-gestion.jsp</file>
+            <file>file:/C:/Users/nico_/Documents/NetBeansProjects/java_svcn/src/java/com/svcn/controlador/GestorProveedoresServlet.java</file>
+            <file>file:/C:/Users/nico_/Documents/NetBeansProjects/java_svcn/src/java/com/svcn/dao/ProveedorDAO.java</file>
+            <file>file:/C:/Users/nico_/Documents/NetBeansProjects/java_svcn/src/java/com/svcn/modelo/Proveedor.java</file>
+            <file>file:/C:/Users/nico_/Documents/NetBeansProjects/java_svcn/src/java/com/svcn/dao/AdministradorDAO.java</file>
+            <file>file:/C:/Users/nico_/Documents/NetBeansProjects/java_svcn/src/java/com/svcn/modelo/Marca.java</file>
+            <file>file:/C:/Users/nico_/Documents/NetBeansProjects/java_svcn/src/java/com/svcn/modelo/Talla.java</file>
+            <file>file:/C:/Users/nico_/Documents/NetBeansProjects/java_svcn/src/java/com/svcn/modelo/Color.java</file>
+            <file>file:/C:/Users/nico_/Documents/NetBeansProjects/java_svcn/src/java/com/svcn/modelo/UnidadMedida.java</file>
+            <file>file:/C:/Users/nico_/Documents/NetBeansProjects/java_svcn/src/java/com/svcn/dao/MarcaDAO.java</file>
+            <file>file:/C:/Users/nico_/Documents/NetBeansProjects/java_svcn/src/java/com/svcn/dao/TallaDAO.java</file>
+            <file>file:/C:/Users/nico_/Documents/NetBeansProjects/java_svcn/src/java/com/svcn/dao/ColorDAO.java</file>
+            <file>file:/C:/Users/nico_/Documents/NetBeansProjects/java_svcn/src/java/com/svcn/dao/UnidadMedidaDAO.java</file>
+            <file>file:/C:/Users/nico_/Documents/NetBeansProjects/java_svcn/src/java/com/svcn/controlador/GestorMarcasServlet.java</file>
+            <file>file:/C:/Users/nico_/Documents/NetBeansProjects/java_svcn/web/marcas-gestion.jsp</file>
+            <file>file:/C:/Users/nico_/Documents/NetBeansProjects/java_svcn/src/java/com/svcn/controlador/GestorTallasServlet.java</file>
+            <file>file:/C:/Users/nico_/Documents/NetBeansProjects/java_svcn/src/java/com/svcn/controlador/GestorColoresServlet.java</file>
+            <file>file:/C:/Users/nico_/Documents/NetBeansProjects/java_svcn/web/tallas-gestion.jsp</file>
+            <file>file:/C:/Users/nico_/Documents/NetBeansProjects/java_svcn/web/colores-gestion.jsp</file>
+            <file>file:/C:/Users/nico_/Documents/NetBeansProjects/java_svcn/web/unidadesmedida-gestion.jsp</file>
+            <file>file:/C:/Users/nico_/Documents/NetBeansProjects/java_svcn/src/java/com/svcn/controlador/GestorUnidadesMedidaServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
